@@ -150,6 +150,33 @@ main.c.s:
 	$(MAKE) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/main.c.s
 .PHONY : main.c.s
 
+tcp_functions.o: tcp_functions.c.o
+
+.PHONY : tcp_functions.o
+
+# target to build an object file
+tcp_functions.c.o:
+	$(MAKE) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/tcp_functions.c.o
+.PHONY : tcp_functions.c.o
+
+tcp_functions.i: tcp_functions.c.i
+
+.PHONY : tcp_functions.i
+
+# target to preprocess a source file
+tcp_functions.c.i:
+	$(MAKE) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/tcp_functions.c.i
+.PHONY : tcp_functions.c.i
+
+tcp_functions.s: tcp_functions.c.s
+
+.PHONY : tcp_functions.s
+
+# target to generate assembly for a file
+tcp_functions.c.s:
+	$(MAKE) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/tcp_functions.c.s
+.PHONY : tcp_functions.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +189,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... tcp_functions.o"
+	@echo "... tcp_functions.i"
+	@echo "... tcp_functions.s"
 .PHONY : help
 
 

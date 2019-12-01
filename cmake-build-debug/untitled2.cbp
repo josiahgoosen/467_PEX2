@@ -79,6 +79,12 @@
 		<Unit filename="/Users/Goosen/Documents/GitHub/467_PEX2/main.c">
 			<Option target="untitled2"/>
 		</Unit>
+		<Unit filename="/Users/Goosen/Documents/GitHub/467_PEX2/tcp_functions.c">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="/Users/Goosen/Documents/GitHub/467_PEX2/tcp_functions.h">
+			<Option target="untitled2"/>
+		</Unit>
 		<Unit filename="/Users/Goosen/Documents/GitHub/467_PEX2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

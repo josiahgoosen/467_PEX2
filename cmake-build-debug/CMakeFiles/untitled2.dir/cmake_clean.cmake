@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/untitled2.dir/main.c.o"
+  "CMakeFiles/untitled2.dir/tcp_functions.c.o"
   "untitled2"
   "untitled2.pdb"
 )
