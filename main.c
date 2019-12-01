@@ -18,6 +18,7 @@
 #include <netinet/in.h>
 #include <errno.h>
 #include <sys/time.h>
+#include "tcp_functions.h"
 
 #define PORT     4240
 #define MAXLINE 1024
